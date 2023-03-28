@@ -44,4 +44,5 @@ Enter a color keyword or hexadecimal number for the shape
 ```
 then the svg should appear in your bash
 
-## Screenshots
+## Demo
+https://user-images.githubusercontent.com/122307878/228168059-3b65ac4d-132c-4ddb-8bb1-96de674b5183.webm)
